@@ -1,0 +1,1 @@
+This is a Python implementation of the "Jarvis," voice-activated personal assistant. Input is via SpeechRecognition and speech output via pyttsx3; it responds to commands to tell the time, date, and fetch information from Wikipedia, showing voice recognition integration with automation in a fun way.
